@@ -1,0 +1,30 @@
+# 编译产物
+/bin/
+*.exe
+*.exe~
+*.out
+*.test
+*.dll
+*.so
+*.dylib
+
+# 测试 / 覆盖率
+*.cover
+coverage.out
+coverage.txt
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*.orig
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 本地配置
+.env
+*.local
